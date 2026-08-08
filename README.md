@@ -5,7 +5,7 @@ An end-to-end Excel project: cleaning raw bike buyer data, transforming it into 
 ## 📂 Files
 - `Excel_Project_Dataset.xlsx` — the full workbook, containing:
   - **bike_buyers** — original raw dataset
-  - **Worksheet (bike_buyers_transformed)** — cleaned and transformed dataset
+  - **Worksheet (bike_buyers_cleaned)** — cleaned and transformed dataset
   - **Pivot Table** — PivotTable built from the transformed data
   - **Dashboard** — final interactive dashboard
 
