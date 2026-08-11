@@ -36,7 +36,7 @@ The analysis focuses on understanding:
 
 ## Data Preparation
 
-The original dataset was preserved in a separate worksheet:
+The original dataset was preserved in a separate worksheet named:
 
 `bike_buyers_master`
 
@@ -93,7 +93,7 @@ The dashboard includes:
 
 ## Key Insights
 
-The dashboard can be used to identify several customer and purchasing patterns:
+The dashboard can be used to identify customer and purchasing patterns such as:
 
 - Bike purchasing behavior varies across different age groups.
 - Average income differs between bike buyers and non-buyers across gender segments.
@@ -120,11 +120,28 @@ With all filters cleared, the dashboard shows:
 
 ---
 
-## Project Structure
+## Skills Demonstrated
 
-```text
-Excel-Bike-Sales-Dashboard/
-│
-├── Bike_Sales_Analysis_Dashboard.xlsx
-├── dashboard.png
-└── README.md
+This project demonstrates practical experience in:
+
+- Data Cleaning
+- Data Preparation
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Interactive Slicers
+- KPI Development
+- Data Visualization
+- Business Analysis
+- Dashboard Design
+- Business Insight Generation
+
+---
+
+## Conclusion
+
+This project demonstrates the complete data analysis workflow in Excel, from data preparation and cleaning to analysis, visualization, and business insights.
+
+The interactive dashboard enables users to explore bike purchasing behavior across different demographic and customer segments while providing dynamic KPIs for quick analysis.
+
+The project demonstrates how Excel can be used to transform raw customer data into an interactive and decision-oriented analytical dashboard.
