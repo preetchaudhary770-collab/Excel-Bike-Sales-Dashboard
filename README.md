@@ -44,7 +44,7 @@ A cleaned version of the dataset was prepared in:
 
 `bike_buyers_cleaned`
 
-The cleaned dataset was used as the source for the PivotTables, PivotCharts, KPIs, and interactive dashboard.
+The cleaned dataset was used as the source for the PivotTables, PivotCharts, KPI cards, and interactive dashboard.
 
 The data preparation process included:
 
@@ -91,6 +91,12 @@ The dashboard includes:
 
 ---
 
+## Dashboard Preview
+
+![Bike Sales Dashboard](dashboard.png)
+
+---
+
 ## Key Insights
 
 The dashboard can be used to identify customer and purchasing patterns such as:
@@ -111,12 +117,6 @@ With all filters cleared, the dashboard shows:
 | Bike Buyers | 481 |
 | Purchase Rate | 48.1% |
 | Average Income | ₹56,139.11 |
-
----
-
-## Dashboard Preview
-
-![Bike Sales Dashboard](dashboard.png)
 
 ---
 
