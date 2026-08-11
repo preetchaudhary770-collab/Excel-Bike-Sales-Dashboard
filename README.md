@@ -1,4 +1,4 @@
-# Bike Sales Analysis & Interactive Excel Dashboard
+# 🚲Bike Sales Analysis & Interactive Excel Dashboard
 
 ## Project Overview
 
