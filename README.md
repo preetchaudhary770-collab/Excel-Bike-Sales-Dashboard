@@ -116,7 +116,7 @@ With all filters cleared, the dashboard shows:
 | Total Customers | 1,000 |
 | Bike Buyers | 481 |
 | Purchase Rate | 48.1% |
-| Average Income | ₹56,139.11 |
+| Average Income | ₹56,360.00 |
 
 ---
 
